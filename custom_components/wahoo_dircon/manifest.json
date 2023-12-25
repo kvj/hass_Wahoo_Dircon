@@ -1,0 +1,14 @@
+{
+  "domain": "wahoo_dircon",
+  "name": "Wahoo Direct Connect",
+  "documentation": "https://github.com/kvj/hass_Wahoo_Dircon",
+  "issue_tracker": "https://github.com/kvj/hass_Wahoo_Dircon/issues",
+  "dependencies": ["zeroconf"],
+  "codeowners": ["@kvj"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "config_flow": true,
+  "integration_type": "device",
+  "zeroconf": ["_wahoo-fitness-tnp._tcp.local."],
+  "version": "0.1.0"
+}

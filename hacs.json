@@ -1,0 +1,5 @@
+{
+    "name": "Wahoo Direct Connect for Home Assistant",
+    "domains": ["sensor"],
+    "render_readme": true
+}

@@ -1,0 +1,52 @@
+{
+  "config": {
+    "flow_title": "{title} ({host}:{port})",
+    "step": {
+      "user": {
+        "description": "New Integration",
+        "data": {
+          "title": "Configuration name",
+          "host": "Device address",
+          "port": "Device port",
+          "speed": "Speed sensor",
+          "speed_set": "Control speed",
+          "pace": "Pace sensor",
+          "incline": "Inclination sensor",
+          "incline_set": "Control inclination",
+          "distance": "Distance sensor",
+          "time": "Time sensor",
+          "cadence": "Running cadence sensor",
+          "hrm": "Hearth rate sensor",
+          "stride": "Stride sensor"
+        }
+      }
+    },
+    "error": {
+      "connection_error": "Failed to connect to device"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "description": "Configure Integration",
+        "data": {
+          "host": "Device address",
+          "port": "Device port",
+          "speed": "Speed sensor",
+          "speed_set": "Control speed",
+          "pace": "Pace sensor",
+          "incline": "Inclination sensor",
+          "incline_set": "Control inclination",
+          "distance": "Distance sensor",
+          "time": "Time sensor",
+          "cadence": "Running cadence sensor",
+          "hrm": "Heart rate sensor",
+          "stride": "Stride sensor"
+        }
+      }
+    },
+    "error": {
+      "connection_error": "Failed to connect to device"
+    }
+  }
+}
