@@ -13,7 +13,9 @@ Current development focus (and environment) is treadmill and [QZ (qdomyos-zwift)
 #### Screenshots
 
 Device entities
+
 ![Home Assistant Device](screenshots/hass_device.png)
 
-Same Lovelace dashboard
+Sample Lovelace dashboard
+
 ![Home Assistant Dashboard](screenshots/hass_lovelace.jpg)
